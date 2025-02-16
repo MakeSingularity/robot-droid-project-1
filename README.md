@@ -37,24 +37,3 @@ To get started with the Robot Droid Project, follow these steps:
    ```bash
    git clone <repository-url>
    cd robot-droid-project
-   ```
-
-2. **Install Dependencies**: 
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Set Up Remote Desktop**: 
-   Refer to the documentation in the `docs/` directory for detailed instructions on setting up a remote desktop connection.
-
-## Contributing
-
-We welcome contributions to the Robot Droid Project! Please feel free to submit issues or pull requests. For more information on how to contribute, check the developer documentation.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Thank you for your interest in the Robot Droid Project! We hope you enjoy building and exploring with your droid.
