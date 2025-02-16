@@ -6,5 +6,4 @@ numpy
 pyautogui
 paramiko
 pillow
-pygobject
 python-xlib
