@@ -17,7 +17,6 @@ setup(
         'pyautogui',
         'paramiko',
         'pillow',
-        'x11-xserver-utils',
         'python-xlib'
     ],
     classifiers=[

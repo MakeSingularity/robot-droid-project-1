@@ -7,5 +7,4 @@ pyautogui
 paramiko
 pillow
 pygobject
-x11-xserver-utils
 python-xlib
