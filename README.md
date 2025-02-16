@@ -34,7 +34,7 @@ The project is organized into the following directories and files:
 To get started with the Robot Droid Project, follow these steps:
 
 1. **Clone the Repository**: 
-   ```
+   ```bash
    git clone <repository-url>
    cd robot-droid-project
    ```
