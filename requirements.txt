@@ -7,3 +7,4 @@ pyautogui
 paramiko
 pillow
 python-xlib
+pyaudio
